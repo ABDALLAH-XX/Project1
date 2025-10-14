@@ -1,0 +1,33 @@
+.title {
+  color : rgb(0, 113, 133);
+}
+
+.item-name {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.price {
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+  font-size: 20px;
+}
+
+  .add-button {
+  background-color: rgb(255, 216, 20);
+  border: none;
+  height: 35px;
+  width: 100px;
+  border-radius: 15px;
+  cursor: pointer;
+  margin-right: 8px;
+}
+
+.buy-button {
+  background-color: rgb(255, 164, 28);
+  border: none;
+  height: 35px;
+  width: 100px;
+  border-radius: 15px;
+  cursor: pointer;
+}
