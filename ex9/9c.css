@@ -1,0 +1,15 @@
+.title {
+  font-family: Arial;
+}
+
+.card {
+  border-style: solid;
+  border-color: grey;
+  border-width: 1px;
+  width: 300px;
+  padding-left: 15px;
+  padding-bottom: 20px;
+}
+
+
+
